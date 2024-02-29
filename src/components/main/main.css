@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo+Black&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+
+.titleText {
+  font-family: "Rubik", sans-serif;
+  margin-top: 140px;
+  margin-left: 165px;
+  font-weight: 500;
+  font-size: 60px;
+  color: #0b132a;
+}
+
+.subTitle {
+  font-family: "Rubik", sans-serif;
+  margin-left: 200px;
+  margin-top: 50px;
+  color: #4f5665;
+}
+
+.imgIlu {
+  margin-left: 1100px;
+  height: 500px;
+  margin-top: -360px;
+}
+
+.btnGet {
+  margin-left: 340px;
+  margin-top: 70px;
+}
+
+.btnStart {
+  height: 60px;
+  width: 150px;
+  border: none;
+  background-color: #f53838;
+  color: white;
+  border-radius: 20px;
+  font-family: "Rubik", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+}
+
+.container{
+  justify-content: space-around;
+  display: flex;
+  align-self: center;
+  text-align: center;
+  margin: auto;
+  background-color: rgb(234, 232, 232);
+  width: 1000px;
+  height: 90px;
+  margin-top: 90px;
+  box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 30px 0px rgba(0, 0, 0, 0.75);
+}
+
+.userImg{
+    height: 60px;
+    margin-top: 14px;
+}
+
+.locationImg{
+    height: 46px;
+    margin-top: 18px;
+}
+
+.serverImg{
+    height: 46px;
+    margin-top: 18px;
+}
+
+.textUser{
+    margin-top: -65px;
+    margin-left: 660px;
+    font-family: "Rubik", sans-serif;
+    color: #0B132A;
+    font-weight: 600;
+}
+
+.textServer{
+    margin-top: -55px;
+    margin-left: 1320px;
+    font-family: "Rubik", sans-serif;
+    color: #0B132A;
+    font-weight: 600;
+}
+
+.textLocation{
+    margin-top: -59px;
+    margin-left: 1002px;
+    font-family: "Rubik", sans-serif;
+    color: #0B132A;
+    font-weight: 600;
+}
